@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//nicolle
+
 int login(User*,int);
 void register_user(User*,int*);
 int menu_user();
